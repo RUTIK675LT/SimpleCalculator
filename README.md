@@ -1,6 +1,8 @@
 # SimpleCalculator
 
 https://rutik675lt.github.io/SimpleCalculator/
+![SimpleCalculator Screenshot](images/simplecalculator-screenshot.png)
+
 
 SimpleCalculator is a minimalist and visually appealing web-based calculator built using HTML, CSS, and JavaScript. It's designed to perform basic arithmetic operations and provides a user-friendly interface for quick calculations.
 
