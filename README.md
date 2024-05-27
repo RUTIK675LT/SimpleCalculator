@@ -10,7 +10,6 @@ SimpleCalculator is a minimalist and visually appealing web-based calculator bui
 
 - **Basic Operations:** Supports addition, subtraction, multiplication, and division.
 - **Interactive Buttons:** Clear, delete, and evaluate operations.
-- **Responsive Design:** Fully adaptable to different device screens.
 
 ## Getting Started
 
